@@ -46,5 +46,5 @@ The `config.json` configuration file (under conf/ directory) has the following s
 Steps to execute this code:
 
 - Gather data.
-- Create 'config.json'.
+- Create `config.json`.
 - Execute the following command under **src/** directory: ```python3 Main.py```
