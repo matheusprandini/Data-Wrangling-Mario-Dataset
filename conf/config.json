@@ -1,0 +1,14 @@
+{
+    "datasetInfo": {
+        "inputDataset": "/home/matheus_prandini/Doutorado/NewMarioDataset/TrainingAndValidationSet/",
+        "outputDataset": "/home/matheus_prandini/Doutorado/Github/Mario12EventsDataset_Chunk6_135Videos_MobileNetV2_Train/",
+        "classes": ["EventBump", "EventStompKill", "EventFireKill", "EventShellKill", "EventFallKill", 
+            "EventJump", "EventLand", "EventCollect", "EventHurt", "EventKick", "EventLose", "EventWin"],
+        "chunkSize": 6,
+        "imageSize": 224,
+        "mode": "multi-label"
+    },
+    "featureExtractor": {
+        "name": "MobileNetV2"
+    }
+}
