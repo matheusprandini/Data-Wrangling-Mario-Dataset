@@ -34,12 +34,12 @@ The `config.json` configuration file (under conf/ directory) has the following s
 }
 ```
 
-- datasetInfo/inputDataset: directory to load video data.
-- datasetInfo/outputDataset: directory to save image data.
-- datasetInfo/classes: classes to extract frames.
-- datasetInfo/chunkSize: number of frames that compose the chunk.
-- datasetInfo/imageSize: size of frames to use in the execution.
-- featureExtractor/name: name of the feature extractor model to use in the execution.
+- **datasetInfo/inputDataset:** directory to load video data.
+- **datasetInfo/outputDataset:** directory to save image data.
+- **datasetInfo/classes:** classes to extract frames.
+- **datasetInfo/chunkSize:** number of frames that compose the chunk.
+- **datasetInfo/imageSize:** size of frames to use in the execution.
+- **featureExtractor/name:** name of the feature extractor model to use in the execution.
 
 ### Execution
 
