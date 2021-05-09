@@ -1,6 +1,6 @@
 # Data-Wrangling-Mario-Dataset
 
-Very simple project for data wrangling for Mario Bros Dataset.
+Very simple project for data wrangling of Mario Bros Datasets.
 
 ## Dependencies
 
