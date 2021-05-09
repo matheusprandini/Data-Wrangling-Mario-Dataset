@@ -5,8 +5,7 @@
         "classes": ["EventBump", "EventStompKill", "EventFireKill", "EventShellKill", "EventFallKill", 
             "EventJump", "EventLand", "EventCollect", "EventHurt", "EventKick", "EventLose", "EventWin"],
         "chunkSize": 6,
-        "imageSize": 224,
-        "mode": "multi-label"
+        "imageSize": 224
     },
     "featureExtractor": {
         "name": "MobileNetV2"
