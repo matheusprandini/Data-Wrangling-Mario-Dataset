@@ -1,7 +1,8 @@
+import sys
+
 from services.MarioDatasetController import MarioDatasetController
 from utils.JsonHandler import JsonHandler
 from os import path
-import sys
 
 sys.path.append(path.join(path.dirname(__file__), '..'))
 

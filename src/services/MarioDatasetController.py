@@ -1,10 +1,8 @@
 import os
 import cv2
 import glob
-import sys
-import random
 import numpy as np
-from os import path
+
 from feature_extractor.factory.FeatureExtractorFactory import FeatureExtractorFactory
 from utils.Utils import Utils
 from utils.CsvHandler import CsvHandler

@@ -2,6 +2,7 @@ from ..models.MobileNetV2 import MobileNetV2Model
 from ..models.ResNet50V2Model import ResNet50V2Model
 from ..models.VGG16Model import VGG16Model
 
+
 class FeatureExtractorFactory():
     modelNameToFeatureExtractorModel = {
         "MobileNetV2": MobileNetV2Model(),
